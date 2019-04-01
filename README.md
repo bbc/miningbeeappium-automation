@@ -2,7 +2,7 @@
 
 To run the test , 
 
-Start the Appium from on your machine, by typing command in terminal “ appium “
+Start the Appium from  your machine, by typing command in terminal “ appium “
 
 Now change the device ID and the app path in the below following file .
 
